@@ -1,0 +1,30 @@
+name = 'Zakir'
+age = 6
+marks = 400
+
+if(age <= 17):
+    print("Minor")
+else:
+    print("Adult")
+    
+grade = 60
+if(grade >= 90):
+    print("A")
+elif(grade >= 75):
+    print("B")
+elif(grade >=50):
+    print("C")
+else:
+    print('Fail')
+
+grade = 60
+match(grade):
+    case ">= 90":
+        output = "A"
+    case ">=75" :
+        output = "B"
+    case ">=50":
+        output = "C"
+    case _:
+        output = "Fail"
+          

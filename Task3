@@ -1,0 +1,14 @@
+Text = input('Enter a string:')
+
+#Number of characters
+char_count = len(Text)
+
+#Number of vowels
+vowel = "AEIOUaeiou"
+vowel_count = sum(1 for char in Text if char is vowel)
+#Middle or first 4 characters in the string 
+output =Text[0:4]
+#Last two characters in the string
+output = Text[2:]
+print(f"Total characters: {char_count}")
+print(f"Total vowels: {vowel_count}")
