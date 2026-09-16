@@ -46,7 +46,7 @@ so they can be executed and reviewed without typing anything in.
 | `task3` | Character count, vowel count, middle/first-4 characters, last 2 characters, and a palindrome check. |
 | `task4.py` | A 5-integer list with a normal function for max/sum, plus a `lambda` for palindrome checking. |
 | `task5.py` | Builds a `student` dictionary, updates marks, adds a grade, and loops over key–value pairs. |
-| `task6.py` | `BankAccount` class with a private `__balance` (encapsulation), plus a `BankCustomer`/`Bank` simulation supporting many owners, each with multiple accounts (e.g. local + multicurrency), and a `transfer` between accounts. |
+| `task6.py` | `BankAccount` class with a private `__balance` (encapsulation), plus a `BankCustomer`/`Bank` simulation supporting many owners, each with multiple accounts (e.g. local plus multicurrency), and a `transfer` between accounts. |
 | 
 
 ## Assumptions
