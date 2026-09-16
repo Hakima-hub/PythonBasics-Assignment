@@ -1,6 +1,6 @@
 # Python Basics Tasks
 
-Python exercise covering core language fundamentals: conditionals,
+Python exercise covering core python fundamentals: conditionals,
 loops, strings, lists, functions (including lambdas), dictionaries, OOP with
 encapsulation.
 
